@@ -34,7 +34,13 @@
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scripting-Automation-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
+
 
 **Operating Systems & Development Tools**
 
