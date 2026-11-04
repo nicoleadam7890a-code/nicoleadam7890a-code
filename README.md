@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aditya Gupta</h1>
+<h1 align="center">Hi there 👋, I'm Aditya Narayan Gupta</h1>
 
 <h3 align="center">Cybersecurity Enthusiast | Open Source Contributor | Developer</h3>
 
