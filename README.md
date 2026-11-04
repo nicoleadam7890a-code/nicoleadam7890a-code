@@ -24,7 +24,7 @@
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,node,express" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,nodejs,express" />
 </p>
 
 **Cybersecurity Tools**
