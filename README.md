@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scripting-Automation-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
 
