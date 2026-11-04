@@ -65,14 +65,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nicoleadam7890a-code/nicoleadam7890a-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
