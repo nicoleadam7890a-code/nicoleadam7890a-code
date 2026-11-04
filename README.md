@@ -60,7 +60,7 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nicoleadam7890a-code/nicoleadam7890a-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nicoleadam7890a-code/nicoleadam7890a-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
   <a href="https://github.com/nicoleadam7890a-code">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/aditya-gupta-47181727a/)">
+  <a href="https://www.linkedin.com/in/aditya-gupta-47181727a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
